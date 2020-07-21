@@ -1,6 +1,0 @@
-# Generating and printing Fibonacci numbers below 10000000000. 
-
-a, b = 0, 1
-while a < 10000000000:
-   print(a)
-   a, b = b, a + b
