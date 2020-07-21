@@ -1,6 +1,4 @@
-# Generating and printing
-# Fibonacci numbers
-# below 1000000000000000
+# Generating and printing Fibonacci numbers below 1000000000000000.
 
 a, b = 0, 1
 
